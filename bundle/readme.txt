@@ -1,0 +1,1 @@
+Project bundle in binaries for deployment

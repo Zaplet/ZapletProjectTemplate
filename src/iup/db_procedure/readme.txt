@@ -1,0 +1,1 @@
+Data base storage procedure creation IUP script

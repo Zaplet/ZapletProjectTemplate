@@ -1,0 +1,1 @@
+Static HTML pages added to application, however not help

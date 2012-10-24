@@ -1,0 +1,1 @@
+Report templates in vm and xhtmp

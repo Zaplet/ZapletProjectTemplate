@@ -1,0 +1,1 @@
+Localized labels used in templates

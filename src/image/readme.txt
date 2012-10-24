@@ -1,0 +1,1 @@
+Images in all formats as jpg, gif, png used for static pages and templates

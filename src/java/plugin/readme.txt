@@ -1,0 +1,1 @@
+Java code used for plug-ins and components

@@ -1,0 +1,1 @@
+Requirements, design and other related to application internals documents

@@ -1,0 +1,1 @@
+Java code reusable for infolet, plug-ins and components

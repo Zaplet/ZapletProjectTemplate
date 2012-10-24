@@ -1,0 +1,1 @@
+Infolet group and user group definition

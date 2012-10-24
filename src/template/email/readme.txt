@@ -1,0 +1,1 @@
+Templates used for e-mails .vm and xhtmp

@@ -1,0 +1,1 @@
+JavaScript code used in templates, reports, infocenters, and static pages

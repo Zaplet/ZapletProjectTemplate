@@ -1,0 +1,1 @@
+Data browser objects definition

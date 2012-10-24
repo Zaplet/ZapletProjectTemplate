@@ -1,0 +1,1 @@
+Common CSS file location. The CSS can be used in form, e-mail, and report templates
